@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Examen.Eventos.Clases.Basico">
+    <Position X="0.75" Y="3.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAIAAAAAAAAAAEA=</HashCode>
+      <FileName>Clases\Basico.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Examen.Eventos.Clases.Bodas" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAABgAAAAAAAAABAAAAAAAAAAIA=</HashCode>
+      <FileName>Clases\Bodas.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Examen.Eventos.Clases.Cliente">
+    <Position X="7.25" Y="5.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAABIgAEAAgAAAAAAABAAAgAAAAA=</HashCode>
+      <FileName>Clases\Cliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Examen.Eventos.Clases.Cumpleanios" BaseTypeListCollapsed="true">
+    <Position X="10.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAABgAAAAAAAAABAAAAAAAAAAIA=</HashCode>
+      <FileName>Clases\Cumpleanios.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Examen.Eventos.Clases.Economico">
+    <Position X="2.75" Y="3.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAIAAAAAAAAAAEA=</HashCode>
+      <FileName>Clases\Economico.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Examen.Eventos.Clases.EventosLista">
+    <Position X="5.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAgAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clases\EventosLista.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Examen.Eventos.Clases.Paquete">
+    <Position X="2.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAQAAAAAABAAAAAAIIBAAAAAAEAEA=</HashCode>
+      <FileName>Clases\Paquete.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Examen.Eventos.Clases.Premium">
+    <Position X="4.75" Y="3.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAIAAAAAAAAAAEA=</HashCode>
+      <FileName>Clases\Premium.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Examen.Eventos.Clases.QuinceAnios" BaseTypeListCollapsed="true">
+    <Position X="8.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAABgAAAAAAAAABAAAAAAAAAAIA=</HashCode>
+      <FileName>Clases\QuinceAnios.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Examen.Eventos.Clases.Zona">
+    <Position X="3" Y="5.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>gAAABAAAAAABABIAAAAAgAAgAAAAAAAAAAABAEAAAAQ=</HashCode>
+      <FileName>Clases\Zona.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Examen.Eventos.Patrones.CotizadorFacade">
+    <Position X="8.5" Y="3.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAACQAAAAAAAAAAAAAAAAAAgAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Patrones\CotizadorFacade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Examen.Eventos.Patrones.EventoFactory">
+    <Position X="6.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Patrones\EventoFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Examen.Eventos.Interfaces.IEvento">
+    <Position X="10.75" Y="3.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAABgAAAAAAAAABAAAAAAAAAAIA=</HashCode>
+      <FileName>Interfaces\IEvento.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Examen.Eventos.Enumeradores.Adicionales">
+    <Position X="1" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEI=</HashCode>
+      <FileName>Enumeradores\Adicionales.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

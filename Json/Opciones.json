@@ -1,0 +1,74 @@
+﻿[
+  {
+    "Zona": "Alajuela",
+    "Servicio": "Electricista",
+    "PrecioTransporte": 6000,
+    "PrecioLavadoA": 12000,
+    "PrecioJardineria": 70000,
+    "PrecioLimpiezaC": 50000
+  },
+    {
+        "Zona": "Heredia",
+        "Servicio": "Electricista",
+        "PrecioTransporte": 12000,
+        "PrecioLavadoA": 10000,
+        "PrecioJardineria": 60000,
+        "PrecioLimpiezaC": 55000
+    },
+    {
+        "Zona": "Cartago",
+        "Servicio": "Electricista",
+        "PrecioTransporte": 15000,
+        "PrecioLavadoA": 10000,
+        "PrecioJardineria": 65000,
+        "PrecioLimpiezaC": 55000
+    },
+    {
+        "Zona": "Alajuela",
+        "Servicio": "Fontanero",
+        "PrecioTransporte": 8000,
+        "PrecioLavadoA": 20000,
+        "PrecioJardineria": 65000,
+        "PrecioLimpiezaC": 60000
+    },
+    {
+        "Zona": "Zona sur",
+        "Servicio": "Fontanero",
+        "PrecioTransporte": 15000,
+        "PrecioLavadoA": 15000,
+        "PrecioJardineria": 60000,
+        "PrecioLimpiezaC": 55000
+    },
+    {
+        "Zona": "Heredia",
+        "Servicio": "Fontanero",
+        "PrecioTransporte": 15000,
+        "PrecioLavadoA": 12000,
+        "PrecioJardineria": 58000,
+        "PrecioLimpiezaC": 50000
+    },
+    {
+        "Zona": "Cartago",
+        "Servicio": "Pintor",
+        "PrecioTransporte": 8000,
+        "PrecioLavadoA": 12000,
+        "PrecioJardineria": 55000,
+        "PrecioLimpiezaC": 50000
+    },
+    {
+        "Zona": "Alajuela",
+        "Servicio": "Pintor",
+        "PrecioTransporte": 12500,
+        "PrecioLavadoA": 15000,
+        "PrecioJardineria": 65000,
+        "PrecioLimpiezaC": 53000
+    },
+    {
+        "Zona": "Heredia",
+        "Servicio": "Pintor",
+        "PrecioTransporte": 13000,
+        "PrecioLavadoA": 13000,
+        "PrecioJardineria": 62500,
+        "PrecioLimpiezaC": 55000
+    }
+]
